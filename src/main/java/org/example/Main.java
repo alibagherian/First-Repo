@@ -6,6 +6,7 @@ public class Main {
         System.out.println("salam");
         System.out.println("chetori");
         System.out.println("chekhabar");
+        System.out.println("Ni Hao");
     }
     Salam
 }
