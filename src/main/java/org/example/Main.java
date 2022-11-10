@@ -7,4 +7,5 @@ public class Main {
         System.out.println("chetori");
         System.out.println("chekhabar");
     }
+    Salam
 }
